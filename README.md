@@ -1,5 +1,3 @@
-# sheilascott.github.io
-
 This website is a celebration of the life of Sheila Scott.
 
 <img src="./assets/sheila.jpg" alt="Sheila Scott"/>
