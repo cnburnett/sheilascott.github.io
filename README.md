@@ -2,7 +2,7 @@
 
 This website is a celebration of the life of Sheila Scott.
 
-<img src="./assets/comingsoon.png" alt="Coming soon"/>
+<img src="./assets/sheila.jpg" alt="Sheila Scott"/>
 
 # About Sheila
 
