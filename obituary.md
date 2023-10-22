@@ -1,6 +1,6 @@
+[Home](./README.md)
 
-
-Scott, Sheila Anne (formerly Duncan)
+# Scott, Sheila Anne (formerly Duncan)
 
 On Tuesday May 23, 2023, Sheila had a peaceful and dignified passing in her home, surrounded by birds, music and the love of her close family and friends.  She was in her 77th year of living life with joy and grace.
 
