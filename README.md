@@ -18,4 +18,6 @@ Sheila passed peacefully at her home, surrounded by family, on May 23, 2023.
 
 [Photos](./photos)
 
+[Videos](./videos)
+
 [Tributes](./tributes)
